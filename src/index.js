@@ -13,7 +13,7 @@ import validation from './modules/validation';
 import validator from './modules/validator';
 
 //Timer
-counterTimer('1 May 2021');
+counterTimer('16 October 2021');
 //menu
 toggleMenu();
 //popup
